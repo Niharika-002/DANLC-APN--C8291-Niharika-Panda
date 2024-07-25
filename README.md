@@ -9,3 +9,6 @@ Course curriculum :
 2. Python for Data Analysis
 3. PowerBi
 4. Sql
+5. Business Communication
+6. Team Work and Soft Skills
+
